@@ -12,7 +12,9 @@ that has been provided
 or you can use the account below
 email : user@user.com
 password : 123456
+
 --------------------------------------------------
+
 KEF App adalah aplikasi untuk acara Karawang Education Fair
 
 Karawang Education Fair© (KEF) merupakan 
